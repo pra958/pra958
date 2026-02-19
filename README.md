@@ -1,6 +1,8 @@
 # 💫 About Me:
 Experienced .NET Developer with 4+ years of expertise in ASP.NET WebForms, .NET Core Web APIs, Angular, and GitHub CI/CD, focused on building scalable and maintainable web applications.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pra958&label=Profile%20views&color=0e75b6&style=flat" alt="pra958" /> </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakashumbare07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-umbare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umbare.p95@gmail.com) 
